@@ -19,12 +19,12 @@ import "react-perfect-scrollbar/dist/css/styles.css";
 // plugins styles downloaded
 import "@fullcalendar/common/main.min.css";
 import "@fullcalendar/daygrid/main.min.css";
-import "assets/vendor/sweetalert2/dist/sweetalert2.min.css";
-import "assets/vendor/select2/dist/css/select2.min.css";
-import "assets/vendor/nucleo/css/nucleo.css";
-import "assets/vendor/@fortawesome/fontawesome-free/css/all.min.css";
+import "../assets/vendor/sweetalert2/dist/sweetalert2.min.css";
+import "../assets/vendor/select2/dist/css/select2.min.css";
+import "../assets/vendor/nucleo/css/nucleo.css";
+import "../assets/vendor/@fortawesome/fontawesome-free/css/all.min.css";
 // core styles
-import "assets/scss/nextjs-argon-dashboard-pro.scss?v1.0.0";
+import "../assets/scss/nextjs-argon-dashboard-pro.scss?v1.0.0";
 
 
 
